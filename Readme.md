@@ -717,7 +717,7 @@ sudo apt-get
 
 
 # Testers & Quality Assurance
-
+  The Testers and Quality Assurance is to analyst products and/or examine the finished products or software to make sure that the products or software meet the regulation or meet the requirments. The testers make sure that the software works as it supposed to be and if there is any issue or not work as it expected, then the software will be fixed before it goes out the market. There are different roles for Quality Assurance such as Quality Assruance Analyst, Functional Tester, and Automated Tester. The Quality Assruance Analyst is to examine the database part of the software.  
 ## What are some patterns we should test? 
 
 ## What steps should Testers & QA go through? 
