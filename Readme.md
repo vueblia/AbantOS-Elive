@@ -694,7 +694,6 @@ cat /var/lib/apt/lists/repository.elivecd.org_*Packages | grep "^Package:" | wc 
 ```shell
 
 sudo apt-get
-
 ```
 
 1. acptool: replacement of apmtool. For laptop users.
@@ -718,6 +717,9 @@ sudo apt-get
 
 # Testers & Quality Assurance
   The Testers and Quality Assurance is to analyst products and/or examine the finished products or software to make sure that the products or software meet the regulation or meet the requirments. The testers make sure that the software works as it supposed to be and if there is any issue or not work as it expected, then the software will be fixed before it goes out the market. There are different roles for Quality Assurance such as Quality Assruance Analyst, Functional Tester, and Automated Tester. The Quality Assruance Analyst is to examine the database part of the software.  
+
+source: (http://technicalrecruitingbook.com/resources/quality-assurance-analyst-job-description/)
+
 ## What are some patterns we should test? 
 
 ## What steps should Testers & QA go through? 
